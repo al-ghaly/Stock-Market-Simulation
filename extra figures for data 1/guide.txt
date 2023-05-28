@@ -1,0 +1,4 @@
+first figure for first line in data and uniform
+first figure for first line in data and gauss
+and so on
+5 lines of data means 10 figures
